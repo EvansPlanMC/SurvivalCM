@@ -10,7 +10,13 @@ Installtion Guide: (Currently useless as a version has not been released!)
 
 3. Open up the zip file and and copy the folder into the functions folder.
 
-4. Rename the folder to "SurvivalCM". Github may have changed it, idk how to use this stuff.
+4. Rename the folder "SurvivalCM-master" to "SurvivalCM". Thanks github.
+
+5. In your world, type /reload or restart the world.
+
+6. Type in the command /function survivalcm:setup
+
+7. To test if this has worked, throw an iron ingot on top of a crafting table, the custom crafting table should appear!
 
 
 (Advanced users only) Auto Update Installation Guide: (This can be useful for updating, and also for when it is actually released.)
