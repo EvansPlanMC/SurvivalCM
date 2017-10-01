@@ -14,7 +14,7 @@ Installtion Guide: (Currently useless as a version has not been released!)
 
 5. In your world, type /reload or restart the world.
 
-6. Type in the command /function survivalcm:setup
+6. Type in the command "/function survivalcm:setup"
 
 7. To test if this has worked, throw an iron ingot on top of a crafting table, the custom crafting table should appear!
 
@@ -26,6 +26,11 @@ Installtion Guide: (Currently useless as a version has not been released!)
 2. Clone https://github.com/EvansPlanMC/SurvivalCM.git (Or click the open in dekstop button in the clone or download drop box) and make sure the folder containing everything is is set to be located inside yourworld/data/functions
 
 3. Whenever you want to update, open up github desktop and send a pull request to recieve all of the most recent Survival CM stuff.
+
+4. In your world, type /reload or restart the world. and type "/function survivalcm:setup" if it is your first time installing the auto update version of Survival CM.
+
+5. To test if this has worked, throw an iron ingot on top of a crafting table, the custom crafting table should appear!
+
 
 Changelog:
 
