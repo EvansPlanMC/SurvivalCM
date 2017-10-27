@@ -34,6 +34,15 @@ A way to further extend your minecraft survival experience.
 
 ## Change Log
 
+### Version 1.1:
+
+```sh
+Ender Core:
+    *Bug fixed: Ender Hopper can remove blocks and relpace them with itself.
+    +Spawner Picker
++Portable Beacons
+```
+
 ### Version 1.0:
 ```sh
 +Custom Crafting:
