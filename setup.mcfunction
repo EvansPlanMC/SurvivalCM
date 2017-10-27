@@ -1,0 +1,5 @@
+gamerule gameLoopFunction survivalcm:loop
+gamerule commandBlockOutput false
+gamerule logAdminCommands false
+function survivalcm:endercore/setup
+function survivalcm:CC/setup
