@@ -4,6 +4,7 @@ function survivalcm:endercore/jump
 function survivalcm:endercore/customblockremover
 function survivalcm:endercore/bedrockbreaker/main
 function survivalcm:endercore/enderhopper/main
+function survivalcm:endercore/spawnerpicker
 
 
 scoreboard players tag @a remove EC_Remover
