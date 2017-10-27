@@ -2,7 +2,9 @@
 
 A way to further extend your minecraft survival experience.
 
-Installtion Guide:
+## Installation Guide
+
+### Simple Installation
 
 1. Navigate to "yourworld/data/functions"
 
@@ -17,7 +19,7 @@ Installtion Guide:
 6. To test if this has worked, throw an iron ingot on top of a crafting table, the custom crafting table should appear!
 
 
-(Advanced users only) Auto Update Installation Guide: (This is useful for updating)
+### Auto Update Guide
 
 1. Install Github Desktop.
 
@@ -30,7 +32,7 @@ Installtion Guide:
 5. To test if this has worked, throw an iron ingot on top of a crafting table, the custom crafting table should appear!
 
 
-# Change Log
+## Change Log
 
 Version 1.0:
 ```sh
@@ -46,4 +48,3 @@ Version 1.0:
 +Recipes Pack 1:
     +Craftable Nametags, Horse Armour, and Saddles
 ```
-s
