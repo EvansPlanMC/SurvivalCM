@@ -38,6 +38,7 @@ A way to further extend your minecraft survival experience.
 ```sh
 +Custom Crafting:
     +Drop an iron ingot on top of a crafting table, and right click the iron button on top to craft!
+    
 +Ender Core:
     +Ender Core (Crafting Upgrade)
     +Egg Binder (Crafting Upgrade)
@@ -45,6 +46,7 @@ A way to further extend your minecraft survival experience.
     +Ender Hopper
     +Bedrock Breaker
     +Custom Block Removal Tool
+    
 +Recipes Pack 1:
     +Craftable Nametags, Horse Armour, and Saddles
 ```
