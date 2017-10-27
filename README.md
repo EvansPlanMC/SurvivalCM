@@ -2,7 +2,7 @@
 
 A way to further extend your minecraft survival experience.
 
-Installtion Guide: (Currently useless as a version has not been released!)
+Installtion Guide:
 
 1. Navigate to "yourworld/data/functions"
 
@@ -12,14 +12,12 @@ Installtion Guide: (Currently useless as a version has not been released!)
 
 4. Rename the folder "SurvivalCM-master" to "SurvivalCM". Thanks github.
 
-5. In your world, type /reload or restart the world.
+5. In your world, type "/reload" or restart the world. and then type "/function survivalcm:setup".
 
-6. Type in the command "/function survivalcm:setup"
-
-7. To test if this has worked, throw an iron ingot on top of a crafting table, the custom crafting table should appear!
+6. To test if this has worked, throw an iron ingot on top of a crafting table, the custom crafting table should appear!
 
 
-(Advanced users only) Auto Update Installation Guide: (This can be useful for updating, and also for when it is actually released.)
+(Advanced users only) Auto Update Installation Guide: (This is useful for updating)
 
 1. Install Github Desktop.
 
@@ -27,13 +25,26 @@ Installtion Guide: (Currently useless as a version has not been released!)
 
 3. Whenever you want to update, open up github desktop and send a pull request to recieve all of the most recent Survival CM stuff.
 
-4. In your world, type /reload or restart the world. and type "/function survivalcm:setup" if it is your first time installing the auto update version of Survival CM.
+4. In your world, type "/reload" or restart the world. and then type "/function survivalcm:setup".
 
 5. To test if this has worked, throw an iron ingot on top of a crafting table, the custom crafting table should appear!
 
 
 Changelog:
 
-  Version Nothing:
   
-    +Added Nothing lol, wait for a release, hold tight bro.
+  Version 1.0:
+  
+  +Custom Crafting:
+    Drop an iron ingot on top of a crafting table, and right click the iron button on top to craft!
+  
+  +Ender Core:
+    +Ender Core (Crafting Upgrade)
+    +Egg Binder (Crafting Upgrade)
+    +Craftable Mob Spawner, Dragone Egg, and Spawn Eggs
+    +Ender Hopper
+    +Bedrock Breaker
+    +Custom Block Removal Tool
+  
+  +Recipes Pack 1:
+    +Craftable Nametags, Horse Armour, and Saddles
