@@ -34,7 +34,7 @@ A way to further extend your minecraft survival experience.
 
 ## Change Log
 
-Version 1.0:
+### Version 1.0:
 ```sh
 +Custom Crafting:
     +Drop an iron ingot on top of a crafting table, and right click the iron button on top to craft!
