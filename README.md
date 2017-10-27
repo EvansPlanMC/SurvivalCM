@@ -30,21 +30,20 @@ Installtion Guide:
 5. To test if this has worked, throw an iron ingot on top of a crafting table, the custom crafting table should appear!
 
 
-Changelog:
+# Change Log
 
-  
-  Version 1.0:
-  
-  +Custom Crafting:
-    Drop an iron ingot on top of a crafting table, and right click the iron button on top to craft!
-  
-  +Ender Core:
+Version 1.0:
+```sh
++Custom Crafting:
+    +Drop an iron ingot on top of a crafting table, and right click the iron button on top to craft!
++Ender Core:
     +Ender Core (Crafting Upgrade)
     +Egg Binder (Crafting Upgrade)
     +Craftable Mob Spawner, Dragone Egg, and Spawn Eggs
     +Ender Hopper
     +Bedrock Breaker
     +Custom Block Removal Tool
-  
-  +Recipes Pack 1:
++Recipes Pack 1:
     +Craftable Nametags, Horse Armour, and Saddles
+```
+s
